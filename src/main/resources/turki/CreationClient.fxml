@@ -30,7 +30,7 @@
             <Font name="Arial" size="14.0" />
          </font>
       </RadioButton>
-      <Button layoutX="221.0" layoutY="349.0" mnemonicParsing="false" text="Retour">
+      <Button layoutX="221.0" layoutY="349.0" mnemonicParsing="false" onAction="#back" text="Retour">
          <font>
             <Font name="Arial" size="14.0" />
          </font>
